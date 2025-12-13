@@ -1,3 +1,4 @@
+/* Page Replacement Algorithms - CSE316 */
 #include <stdio.h>
 
 void fifo(int pages, int frames, int pageRef[]) {
@@ -177,3 +178,4 @@ int main() {
 
     return 0;
 }
+
