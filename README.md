@@ -1,2 +1,7 @@
-# Page-Replacement-Algorithm-CSE316
-FIFO, LRU and Optimal Page Replacement Algorithms in C
+## Algorithms Implemented
+- FIFO (First In First Out)
+- LRU (Least Recently Used)
+- Optimal Page Replacement
+
+## Language
+- C
