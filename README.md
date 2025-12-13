@@ -9,6 +9,7 @@
 ## Author
 - Name: Aazad Kumar Mishra
 - Course: CSE316 : Operating Systems
+- Faculty : Dr. Shivali Chopra
 
 ## Sample Input
 Frames: 3  
